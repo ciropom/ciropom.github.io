@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Tomasoni;Danilo;;;
+FN:Danilo Tomasoni
+X-ANDROID-CUSTOM:vnd.android.cursor.item/nickname;ciropom;1;;;;;;;;;;;;;
+EMAIL;HOME:danilo.tomasoni@cryptolab.net
+EMAIL;WORK:tomasoni@cosbi.eu
+ORG:COSBI
+TITLE:Computer Scientist
+URL:https://vegani.me
+URL:https://danilo.tomasoni.me
+END:VCARD
