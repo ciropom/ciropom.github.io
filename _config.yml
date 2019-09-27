@@ -1,7 +1,7 @@
 # Site settings
 title: Danilo Tomasoni
-description: 'Computer Scientist in the field of Systems Biology'
-url: 'http://pascal.schulthess.io'
+description: 'Computer Scientist in the field of Systems Biology\nEthical Hacker\nAnimal rights activist'
+url: 'https://danilo.tomasoni.me'
 baseurl:
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'danilotomasoni'
