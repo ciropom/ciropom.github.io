@@ -1,21 +1,21 @@
 # Site settings
-title: Pascal Schulthess
-description: 'System Pharmacologist and Control Theorist'
+title: Danilo Tomasoni
+description: 'Computer Scientist in the field of Systems Biology'
 url: 'http://pascal.schulthess.io'
 baseurl:
 # google_analytics: 'UA-XXXXXX-X'
-disqus_shortname: 'pascalschulthess'
+disqus_shortname: 'danilotomasoni'
 
 author:
-  name: 'Pascal Schulthess'
+  name: 'Danilo Tomasoni'
 #  twitter_username: hellopascal
 # facebook_username: hellopascalschulthess
-  github_username:  pascalschulthess
-  linkedin_username:  pascalschulthess
-  researchgate_username: Pascal_Schulthess2
+  github_username:  ciropom
+  linkedin_username:  https://www.linkedin.com/in/conputerscience-tomasoni
+#  researchgate_username: Pascal_Schulthess2
 # instagram_username: pascalschulthess
-  orcid_username: 0000-0002-7768-8507
-  googlescholar_username: cQBzQycAAAAJ
+  orcid_username: 0000-0002-8427-4230
+#  googlescholar_username: cQBzQycAAAAJ
 # slideshare_username: PascalSchulthess1
 
 defaults:
@@ -32,7 +32,7 @@ paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
-timezone: Europe/Amsterdam
+timezone: Europe/Rome
 
 kramdown:
   # use Github Flavored Markdown
