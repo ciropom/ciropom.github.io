@@ -88,6 +88,14 @@
                 </li>
               {% endif %}
 
+              {% if site.author.nextcloud_username %}
+                <li class="navigation__item">
+                    <a target="_blank" rel="noreferrer noopener" href="https://nextcloud.com/sharing#ciropom@vegani.me" style="padding:10px;background-color:#0082c9;color:#ffffff;border-radius:3px;padding-left:4px;">
+                        <span style="background-image:url(https://vegani.me/core/img/logo/logo.svg?v=2);width:50px;height:30px;position:relative;top:8px;background-size:contain;display:inline-block;background-repeat:no-repeat; background-position: center center;"></span>
+                    </a>
+                </li>
+              {% endif %}              
+              
               {% if site.author.twitter_username %}
                 <!-- Twitter -->
                 <li class="navigation__item">
