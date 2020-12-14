@@ -25,6 +25,9 @@
 
 .eff {
 	background-image: url('../images/eff-membership.png');
+	background-size: 64px;
+	width: 64px;
+	height: 64px;
 }
 
 .ai-google-scholar:before {
