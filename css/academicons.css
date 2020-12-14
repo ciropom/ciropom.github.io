@@ -30,6 +30,13 @@
 	height: 64px;
 }
 
+.gitlab {
+        background-image: url('../images/gitlab.png');
+        background-size: 25px;
+        width: 25px;
+        height: 25px;
+}
+
 .ai-google-scholar:before {
     content: "\e900";
 }
