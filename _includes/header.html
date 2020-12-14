@@ -145,6 +145,17 @@
                   </a>
                 </li>
 
+		{% if site.author.eff %}
+                <!-- InstaGram -->
+                <li class="navigation__item">
+                  <a href="https://eff.org/" target="_blank">
+                    <i class="fa eff"></i>
+                    <span class="label">Electronic Frontiers Foundation</span>
+                  </a>
+                </li>
+              {% endif %}
+
+
               <!-- RSS -->
               <!-- <li class="navigation__item">
                 <a href="{{ site.baseurl }}/feed.xml" title="Subscribe to feed" target="_blank">
@@ -156,18 +167,6 @@
           </nav>
 
         </div>
-
-	<div class="navigation-wrapper">
-		<nav class="cover-navigation cover-navigation--primary">
-			<ul class="navigation">
-				<li>
-					<a href="https://www.eff.org/">
-						<i class="fa eff"></i>
-					</a>
-				</li>
-			</ul>
-		</nav>
-	</div>
 
       </div>
 
