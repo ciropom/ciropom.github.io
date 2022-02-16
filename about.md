@@ -5,8 +5,10 @@ permalink: /about/
 ---
 
 I am an open-minded person, who likes to learn and be involved in challenging projects. 
-I gained experience in many fields of Computer Science, some of them are embedded systems, low-level programming, formal verification (model checking), Machine Learning, real-­time applications, bio-Informatics, mesh networking and wireless sensor networks.
+I received the B.S. degree in Computer Science from University of Trento in 2009 and the M.S. degree in 2011.
+From 2008 to 2010, I was a Researcher and Developer in the Embedded System Unit at FBK (Fondazione Bruno Kessler) in the field of hardware formal verification,
+from 2012 to 2014 I was a Researcher and Developer in the R&D Unit of a simulation-based engineering company in the field of artificial intelligence 
+and from 2016 I am a Researcher in the field of systems biology,  data analysis, modelling and simulation of biological systems at [COSBI](https://cosbi.eu/) in Rovereto, Trento.
 
-I'm currently a computer scientist in the field of Systems Biology and Systems Pharmacology at [COSBI](https://cosbi.eu/) where I implement software for AI-based and rule-based automatic knowledge extraction from scientific papers, data analysis, mathematical modelling and deterministic/stochastic simulation of biochemical reactions. 
 
 
