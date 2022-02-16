@@ -10,5 +10,5 @@ From 2008 to 2010, I was a Researcher and Developer in the Embedded System Unit 
 from 2012 to 2014 I was a Researcher and Developer in the R&D Unit of a simulation-based engineering company in the field of artificial intelligence 
 and from 2016 I am a Researcher in the field of systems biology,  data analysis, modelling and simulation of biological systems at [COSBI](https://cosbi.eu/) in Rovereto, Trento.
 
-
+I also hold the CEH (Certified Ethical Hacker) certification in computer security.
 
