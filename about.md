@@ -14,5 +14,7 @@ from 2012 to 2014 I was a Researcher and Developer in the R&D Unit of a simulati
 
 and from 2016 I am a Researcher in the field of systems biology,  data analysis, modelling and simulation of biological systems at [COSBI](https://cosbi.eu/) in Rovereto, Trento.
 
-I also hold the CEH (Certified Ethical Hacker) certification in computer security.
+In 2022 I co-founded [ONEBra S.r.l.](https://onebra.it) where I designed security-aware mass-customization pipelines that allows ONEBra's customized lingerie production. 
+
+I also hold the CEHv10 (Certified Ethical Hacker, version 10) certification in computer security.
 

@@ -30,6 +30,13 @@
 	height: 24px;
 }
 
+.company {
+	background-image: url('../images/company-image.png');
+	background-size: 24px;
+	width: 24px;
+	height: 24px;
+}
+
 .gitlab {
         background-image: url('../images/gitlab.png');
         background-size: 24px;

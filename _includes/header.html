@@ -154,6 +154,15 @@
                 </li>
               {% endif %}
 
+		{% if site.author.company_link %}
+                <!-- InstaGram -->
+                <li class="navigation__item">
+		    <a href="{{ site.author.company_link }}" target="_blank">
+                    <i class="fa company"></i>
+                    <span class="label">ONEBra S.r.l.</span>
+                  </a>
+                </li>
+              {% endif %}
 
               <!-- RSS -->
               <!-- <li class="navigation__item">
