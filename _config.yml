@@ -11,6 +11,7 @@ author:
 #  twitter_username: hellopascal
 # facebook_username: hellopascalschulthess
   github_username:  ciropom
+  work_github_username:  t0masoni
   gitlab_username: ciropom
   linkedin_username:  computerscience-tomasoni
   eff: 1
@@ -19,7 +20,7 @@ author:
   orcid_username: 0000-0002-8427-4230
 #  googlescholar_username: cQBzQycAAAAJ
 # slideshare_username: PascalSchulthess1
-  nextcloud_username: dtomasoni@vegani.me
+#  nextcloud_username: dtomasoni@vegani.me
   company_link: https://onebra.it/chi-siamo/
 
 defaults:
