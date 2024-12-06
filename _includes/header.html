@@ -88,6 +88,16 @@
                 </li>
               {% endif %}
 
+              {% if site.author.work_github_username %}
+                <!-- GitHub -->
+                <li class="navigation__item">
+                  <a href="https://www.github.com/{{ site.author.work_github_username }}" title="Find me on GitHub (work account)" target="_blank">
+                    <i class="fa fa-github"></i>
+                    <span class="label">GitHub</span>
+                  </a>
+                </li>
+              {% endif %}
+
               {% if site.author.nextcloud_username %}
                 <li class="navigation__item">
 			<a target="_blank" rel="noreferrer noopener" href="https://nextcloud.com/sharing#{{site.author.nextcloud_username}}" style="top:6px;padding:2px;background-color:#0082c9;color:#ffffff;">
